@@ -106,8 +106,3 @@ Quiz Gen is open source because education should be free and accessible to all. 
 Youssef Ahmed @cstfre | Software Engineer Student
 
 For any help or questions, feel free to reach out via LinkedIn or Twitter.
-
----
-
-I hope this rephrased version meets your needs! If there's anything specific you'd like to adjust or focus on, let me know! 
-
