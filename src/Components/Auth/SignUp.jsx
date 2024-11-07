@@ -89,7 +89,7 @@ const SignUp = () => {
         >
           <div className="w-full h-100">
             <img
-              src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F029a1497-45bd-4b48-af71-c2ab8a918091%2F5f8b096b-a2b8-4b23-998e-0084f415fb2c%2FLogo.png?table=block&id=30fc8a2c-e3f9-4b99-868c-3690d70e7e59&spaceId=029a1497-45bd-4b48-af71-c2ab8a918091&width=2000&userId=9d08c749-75eb-439d-ad10-2a83e114a53b&cache=v2"
+              src=""/assets/Extra-Assets/Logo.png""
               alt="logo"
               width={150}
               height={200}
@@ -97,7 +97,7 @@ const SignUp = () => {
             />
 
             <h1 className="text-xl md:text-2xl font-bold leading-tight mt-12">
-              Get Started with Pop Quiz 🚀
+              Get Started with  Quiz Gen
             </h1>
 
             <form className="mt-6" onSubmit={signUp}>
@@ -219,14 +219,14 @@ const SignUp = () => {
             </p>
 
             <p className="text-sm text-gray-500 mt-12">
-              &copy; Joe ALX 😑- All Rights Reserved.
+              &copy; Youssef ALX 😑- All Rights Reserved.
             </p>
           </div>
         </div>
         {/* second side */}
         <div className="bg-blue-600 hidden lg:block w-full md:w-1/2">
           <img
-            src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F029a1497-45bd-4b48-af71-c2ab8a918091%2F956aa46a-b180-4bff-92f8-3f525f478b13%2FQuote.png?table=block&id=f1945a54-8da6-40f5-9db5-8015f73f337b&spaceId=029a1497-45bd-4b48-af71-c2ab8a918091&width=2000&userId=9d08c749-75eb-439d-ad10-2a83e114a53b&cache=v2"
+            src="/assets/Extra-Assets/Quote2.png"
             alt="img of quote"
             className="w-full h-full object-cover"
           />
